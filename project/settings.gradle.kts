@@ -7,5 +7,4 @@ pluginManagement {
         }
     }
 }
-rootProject.name = 'chifoumi-robot'
-
+rootProject.name = "chifoumi-robot"
